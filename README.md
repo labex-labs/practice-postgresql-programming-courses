@@ -12,8 +12,8 @@ PostgreSQL is a powerful, open-source relational database management system. Thi
 
 |   Index | Name                                                                                              | Difficulty   | Repo                                                                        | Practice                                                                    |
 |---------|---------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [PostgreSQL for Beginners](https://labex.io/courses/postgresql-for-beginners)                     | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 Start Lab](https://labex.io/courses/postgresql-for-beginners)           |
-|       2 | [Advanced PostgreSQL Practical Labs](https://labex.io/courses/advanced-postgresql-practical-labs) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 Start Lab](https://labex.io/courses/advanced-postgresql-practical-labs) |
+|       1 | [PostgreSQL for Beginners](https://labex.io/courses/postgresql-for-beginners)                     | Beginner     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 Start Lab](https://labex.io/courses/postgresql-for-beginners)           |
+|       2 | [Advanced PostgreSQL Practical Labs](https://labex.io/courses/advanced-postgresql-practical-labs) | Beginner     | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 Start Lab](https://labex.io/courses/advanced-postgresql-practical-labs) |
 
 ## More
 

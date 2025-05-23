@@ -12,8 +12,8 @@ PostgreSQL は強力なオープンソースのリレーショナルデータベ
 
 |   インデックス | 名前                                                                                         | 難易度   | Repo                                                                        | 練習                                                                            |
 |----------------|----------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|              1 | [初心者のための PostgreSQL](https://labex.io/ja/courses/postgresql-for-beginners)            | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 ラボを開始](https://labex.io/ja/courses/postgresql-for-beginners)           |
-|              2 | [高度な PostgreSQL 実践ラボ](https://labex.io/ja/courses/advanced-postgresql-practical-labs) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 ラボを開始](https://labex.io/ja/courses/advanced-postgresql-practical-labs) |
+|              1 | [初心者のための PostgreSQL](https://labex.io/ja/courses/postgresql-for-beginners)            | 初級     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 ラボを開始](https://labex.io/ja/courses/postgresql-for-beginners)           |
+|              2 | [高度な PostgreSQL 実践ラボ](https://labex.io/ja/courses/advanced-postgresql-practical-labs) | 初級     | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 ラボを開始](https://labex.io/ja/courses/advanced-postgresql-practical-labs) |
 
 ## その他
 

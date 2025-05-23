@@ -12,8 +12,8 @@ PostgreSQL 은 강력한 오픈 소스 관계형 데이터베이스 관리 시�
 
 |   인덱스 | 이름                                                                                      | 난이도   | Repo                                                                        | 연습                                                                           |
 |----------|-------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|        1 | [PostgreSQL 초보자를 위한 안내](https://labex.io/ko/courses/postgresql-for-beginners)     | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 실습 시작](https://labex.io/ko/courses/postgresql-for-beginners)           |
-|        2 | [고급 PostgreSQL 실습 랩](https://labex.io/ko/courses/advanced-postgresql-practical-labs) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 실습 시작](https://labex.io/ko/courses/advanced-postgresql-practical-labs) |
+|        1 | [PostgreSQL 초보자를 위한 안내](https://labex.io/ko/courses/postgresql-for-beginners)     | 초급     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 실습 시작](https://labex.io/ko/courses/postgresql-for-beginners)           |
+|        2 | [고급 PostgreSQL 실습 랩](https://labex.io/ko/courses/advanced-postgresql-practical-labs) | 초급     | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 실습 시작](https://labex.io/ko/courses/advanced-postgresql-practical-labs) |
 
 ## 더 보기
 

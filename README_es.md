@@ -12,8 +12,8 @@ PostgreSQL es un sistema de gestión de bases de datos relacional de código abi
 
 |   Índice | Nombre                                                                                                           | Dificultad   | Repo                                                                        | Práctica                                                                                 |
 |----------|------------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|        1 | [PostgreSQL para Principiantes](https://labex.io/es/courses/postgresql-for-beginners)                            | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/postgresql-for-beginners)           |
-|        2 | [Laboratorios Prácticos Avanzados de PostgreSQL](https://labex.io/es/courses/advanced-postgresql-practical-labs) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/advanced-postgresql-practical-labs) |
+|        1 | [PostgreSQL para Principiantes](https://labex.io/es/courses/postgresql-for-beginners)                            | Principiante | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/postgresql-for-beginners)           |
+|        2 | [Laboratorios Prácticos Avanzados de PostgreSQL](https://labex.io/es/courses/advanced-postgresql-practical-labs) | Principiante | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/advanced-postgresql-practical-labs) |
 
 ## Más
 

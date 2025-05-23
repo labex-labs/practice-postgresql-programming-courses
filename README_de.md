@@ -12,8 +12,8 @@ PostgreSQL ist ein leistungsfähiges Open-Source-Relationales Datenbankmanagemen
 
 |   Index | Name                                                                                                            | Schwierigkeit   | Repo                                                                        | Übung                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-|       1 | [PostgreSQL für Anfänger](https://labex.io/de/courses/postgresql-for-beginners)                                 | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 Labor Starten](https://labex.io/de/courses/postgresql-for-beginners)           |
-|       2 | [Fortgeschrittene PostgreSQL-Praktikumsübungen](https://labex.io/de/courses/advanced-postgresql-practical-labs) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 Labor Starten](https://labex.io/de/courses/advanced-postgresql-practical-labs) |
+|       1 | [PostgreSQL für Anfänger](https://labex.io/de/courses/postgresql-for-beginners)                                 | Anfänger        | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 Labor Starten](https://labex.io/de/courses/postgresql-for-beginners)           |
+|       2 | [Fortgeschrittene PostgreSQL-Praktikumsübungen](https://labex.io/de/courses/advanced-postgresql-practical-labs) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 Labor Starten](https://labex.io/de/courses/advanced-postgresql-practical-labs) |
 
 ## Mehr
 

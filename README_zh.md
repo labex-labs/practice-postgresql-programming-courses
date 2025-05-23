@@ -12,8 +12,8 @@ PostgreSQL 是一个功能强大的开源关系型数据库管理系统。此技
 
 |   序号 | 名称                                                                                         | 难度   | Repo                                                                        | 练习                                                                          |
 |--------|----------------------------------------------------------------------------------------------|--------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|      1 | [PostgreSQL 初学者教程](https://labex.io/zh/courses/postgresql-for-beginners)                | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 开始实验](https://labex.io/zh/courses/postgresql-for-beginners)           |
-|      2 | [高级 PostgreSQL 实践实验室](https://labex.io/zh/courses/advanced-postgresql-practical-labs) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 开始实验](https://labex.io/zh/courses/advanced-postgresql-practical-labs) |
+|      1 | [PostgreSQL 初学者教程](https://labex.io/zh/courses/postgresql-for-beginners)                | 初级   | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)           | [🚀 开始实验](https://labex.io/zh/courses/postgresql-for-beginners)           |
+|      2 | [高级 PostgreSQL 实践实验室](https://labex.io/zh/courses/advanced-postgresql-practical-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/advanced-postgresql-practical-labs) | [🚀 开始实验](https://labex.io/zh/courses/advanced-postgresql-practical-labs) |
 
 ## 更多
 

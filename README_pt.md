@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/9xEeZgWSNpHA.png">
 </div>
 
-PostgreSQL é um poderoso sistema de gerenciamento de banco de dados relacional de código aberto. Esta Skill Tree oferece um caminho de aprendizado abrangente para dominar PostgreSQL. É perfeito para iniciantes em bancos de dados, apresentando um roteiro estruturado para entender SQL, design de banco de dados e administração. Através de cursos práticos, sem vídeo, e exercícios práticos em um playground SQL interativo, você obterá experiência do mundo real em gerenciamento e consulta de banco de dados.
+Aprenda PostgreSQL com um caminho de aprendizagem abrangente, projetado para iniciantes. Estes cursos de PostgreSQL fornecem um roteiro estruturado para dominar o poderoso sistema de banco de dados relacional de código aberto. Avance por tópicos como SQL fundamental, design de banco de dados e administração. Ganhe experiência prática e real através de tutoriais práticos sem vídeo e exercícios interativos em um ambiente SQL dedicado, focado em gerenciamento e consulta de banco de dados.
 
 |   Índice | Nome                                                                                                            | Dificuldade   | Repo                                                                        | Prática                                                                          |
 |----------|-----------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
